@@ -85,7 +85,7 @@ function User() {
                     rel="noreferrer"
                     className="btn btn-outline"
                   >
-                    Visith Github Profile
+                    Visit Github Profile
                   </a>
                 </div>
               </div>
